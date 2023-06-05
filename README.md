@@ -59,9 +59,10 @@
 
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Amantha07&show_icons=true&locale=en" alt="Amantha07" /></p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Amantha07&show_icons=true&theme=radical"/>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Amantha07&" alt="Amantha07" /></p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amantha07&layout=compact"/>
+
 
 
 
