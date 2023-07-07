@@ -59,6 +59,8 @@
 
 </br>
 
+[![An image of @amantha07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amantha07)](https://holopin.io/@amantha07)
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Amantha07&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amantha07&layout=compact"/>
